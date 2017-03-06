@@ -1,0 +1,93 @@
+------------------------------
+# Art Direction Bootcamp Day 1
+> Things I wish I knew before becoming and art director:
+------------------------------
+
+Leads set the tone/motiviate the team Get people excited on what they're working on.
+Keep the negativity to yourself put the positivty out.
+Be happy/ Understand you can't know everything.
+Delegate tasks to senior artists.
+Hire to your weakness.
+Giving ownership to people is a big deal. Let them own the assets do not micromanage.
+Directors give direction not always solutions.
+Diversity is good but also creates situations that can drive a wedge in the team.
+Leave your ego at home break rules for the right reasons not because you want control.
+
+Select leads by how much you don't know and how well you can work together/cover your ass if things go bad.
+Chat with artists - social aspect is very important in a lead position 
+
+---
+# Art Direction Bootcamp Day 1
+> The Art of Pre-Production
+---
+
+## Common Mistakes
+	* Not Considering Presentation
+	* Overestimating Pretty Pictures
+	* Concepts that pretend to provide answers
+	* Focusing on small self-contained items rather than systems
+	* Avoiding difficult gameplay and how it affects the art
+	* Creating art Bibles too early
+
+## What did we do
+	* Hired concept team
+	* Simulated gameplay
+	* Agility
+
+## Planning for team
+	* identified key positino and people
+	* collected concepts so everyone would be production when they came on board
+## Consciously building your team
+	* isolated the team in room
+	* Everyone had a brand new machine - Fresh start
+	* setting the critique tone
+## achieving buy-in ( They all felt empowered)
+	* everyone could effect change
+	* provided concepts that challenged the team
+## Maintaining buy-in
+
+* What is the theme/setting of the game?
+* What are the design goals?
+	* How do they affect the art direction?
+		* What do you have to communicate
+* How is the game going to be presented to the player?
+* Try lots of interesting things in concept first so people can see it
+* Pre-vis gameplay movie creates buy-in gets the team really excited to work on it more
+	* Identifies what you missed in the game before actually getting into gameplay.
+	* Find out what questions you should be asking based on the gameplay video not what you think will be important.
+	* Morale increase for entire team
+	* Video/Moving consitution for the game
+	* Recuriting tool
+	* Internal Marketing tool - pitched to publishers
+The team matters
+try to identify and ask the right questions
+work large to small
+questions with answers are still god questions
+presnetation is the kay
+push the boundaries and challenege convention
+tailor preproduction needs based on your goals
+
+
+---
+# Art Direction Bootcamp Day 1
+> Creating a believable characters
+---
+Tapping into the universal
+The heros journey
+Called to action by incident->
+Hero support and inspired by mentors->
+Pass a threshold that begins transformation->
+
+The collective unconcious.
+Populated by instincts and ideas.
+
+Theme and motiviation universal truth shared by all cultures
+Love/Injustice/Freedom/Honor/Liberty/Vengance/Survival/Fear/Guilt 
+
+
+Design clothes not costumes
+Capture characters in extreme poses to get data for yor animators to be able to create blend shapes
+Contextual animations help connect the character to the world
+secondary animation on hair or gear controlled by physics will privde visual interest and overlapping motion
+Reflect the characters growth throughout the entire performance
+

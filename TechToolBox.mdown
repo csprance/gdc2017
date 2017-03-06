@@ -1,0 +1,54 @@
+# Tech Toolbox 2017
+> Collections of handy tools that you can use in production
+---
+
+## Danesh (Word for Knowledge) - For Unity
+> http://github.com/gamesbyangelina/danesh
+
+Lets people look at procedural generation from other perspectives
+* Made in unity
+* Expressive range analysis
+* Helps reign in procduralism tools
+
+---
+
+## Tbutt - For Unity
+> http://github.com/turbobutton/tbutt-vr-framework
+
+* Wraps input controls and feeds them into seperate VR SDK's (occulus, vive, psvr)
+
+---
+
+## Darkconfig - For C#
+>  github.com/spryfox/DarkConfig
+
+* Iterate fast
+* Express anything
+* Actually do it
+
+---
+
+## Rectangles are life
+> No Link - Check out Semblance South African game
+
+Creates procedural animations based on bezier curves of a rectangle and then stick a sprite in the middle
+
+---
+
+## Ceptre: A tool for tinkering with rulesets
+> github.com/chrisamaphone/interactive-lp 
+
+Lets you design rulesets and play around with them.
+
+---
+
+## Messing with Textures 
+> @innesmck innesmck.com
+
+Creates texture parts and recombines them together
+Combine
+Recolour
+GraphTime? 
+
+
+---

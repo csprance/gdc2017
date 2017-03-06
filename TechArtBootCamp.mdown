@@ -1,0 +1,112 @@
+# Technical Artist Bootcamp
+> Day one
+---
+
+## Introduction to proceduralism
+* Tools for you
+* Tools for them
+* Tools for everyone
+
+### Types of proceduralism
+* Offline
+* Load Time
+* Run Time
+
+### Level 1 - Proof of concept
+Getting started
+* Identify the problem
+	* walk around
+	* Boring and repetitive
+	* Bottlenecks
+* Understanding the work-flow
+	* Talk to artists then build robots that do the same thing"
+	* Do the process yourself so you know what they want
+* Get time to fix the problem
+
+### Goldfish Paradigm
+Productivity = more content
+Productivity != Earlier Release
+
+### Level 2 - Production ready
+> Tools for other people
+* Convince the task keepers
+* Encapsulate the problem
+
+#### Don't argue , show
+> There will always be people saying it can't be done
+Build a little prototype as proof of concept or find someone that's done it already.
+
+#### Pitch the tools as buying time
+* most valuable resource
+Time = ?
+Get buy in from the team, work with them
+Show how fast people can be
+How much content you can produce
+How fast can you iterate
+"Just takes me 5 minutes"
+
+### Pipe tool
+* Curve as input
+* Separate straight from corners
+* Place straights
+* Place Corners
+* Done!
+
+### Level 3 - Team-wide deployment
+* interconnected sub systems
+* Critical path
+
+#### Integrate into existing work-flows
+* Iterative design
+* Replace small parts on the pipeline with the eye on the prize
+
+#### All or Nothing solutions
+* Ship it or lose it
+
+> Ratio Math
+ratio = disred_size/current_size
+2*x=5
+x = 5/2
+
+> Number of segments
+total_length/number_of_segments
+2.5/2=1.25
+
+### Hardest step to push
+* Cost
+* Ego
+* Push-back
+
+
+#### Vertical monopoly
+* 1 driver-less car is great
+* All driver-less cars will allow for new things
+
+
+## Pros
+* Non destructive
+* Automated
+* Iterative/parallel
+## Cons
+* Longer ramp up
+* perceived loss of control
+* new and different
+
+## Next level
+* Iterate iterate iterate
+* New algorithms
+* AI driven systems
+
+# Bonus Round
+
+## Dirt Skirts
+Inputs = Terrain/Rock
+Union 
+Isolate Seam
+Sweep geometry along seam
+Convert To volume
+Intersect with union
+Offset by terrain normal
+add alpha on edges
+add uvs
+apply material

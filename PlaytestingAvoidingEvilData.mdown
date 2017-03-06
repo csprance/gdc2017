@@ -1,0 +1,43 @@
+# Avoiding Evil Data
+> Playtesting talk
+
+* What is evil data
+* Avoid Evil Data
+* How to schedule good playtests
+
+## Evil Data
+Playtest results that are distracting misleading or incorrect.
+
+## Where evil data comes from and how to avoid it
+* (Physical) Location
+	* Playtest in a setting that fits your game.
+* People
+	* It's easy to miss bottlenecks entirely depending on who's testing
+	* People are different playtest with everyone
+	* coworkers, other game devs, into game freinds, family, young old, fans, different cultures
+* Introduction - When people buy your game they don't have context of your intro to the game.
+	* Don't tell people what to do
+	* Don't explain the story
+	* Don't explain what's missing
+	* don't explain the interface
+	* don't explain anything
+	* Watch them hit bumps
+	* DO TELL PEOPLE THE GAME IS NOT FINSIHED
+* Surface problems
+	* Obvious & neglected
+	* Make every playtest about the experience as a whole
+	* Make 1-minute changes in between builds (Dangerouns)
+	* People are great saying what's wrong without actually saying what's wrong
+	* Second hand information can be a huge distraction
+	* Filter feedback *always*
+* Surveys
+	* Open ended questions give innacruate information
+	* No Surveys. No Questionairres. Ever
+* Online playtesting
+	* written feedback from online playtests: don't
+	* Feedback tends to be based on final feelings rather then an entire session
+	* Heatmaps are more specific
+* Video testing
+	* very informative
+
+
